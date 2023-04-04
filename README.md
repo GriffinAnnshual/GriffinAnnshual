@@ -65,6 +65,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=griffinannshual&" alt="griffinannshual" /></p>
 
 <img width = "30%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-<img scr="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
-![snake animation](https://github.com/GriffinAnnshual/GriffinAnnshual/output/github-contribution-grid-snake2.svg)
+
+![snake gif](https://github.com/GriffinAnnshual/GriffinAnnshual/blob/output/github-contribution-grid-snake.gif)
