@@ -1,4 +1,4 @@
-(https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
+![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 
 
 <h1 align="center">Hi 😉, I'm Griffin Annshual      <img align="center" width="10%" src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png"></h1>
@@ -67,6 +67,5 @@
 <img width = "30%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 
-<img src="https://github.com/GriffinAnnshual/GriffinAnnshual/output/github-contribution-grid-snake.svg">
-![snake animation]https://github.com/GriffinAnnshual/GriffinAnnshual/output/github-contribution-grid-snake.svg
-![snake gif]https://github.com/GriffinAnnshual/GriffinAnnshual/output/github-contribution-grid-snake.gif
+<img src="
+https://github.com/GriffinAnnshual/GriffinAnnshual/blob/output/github-contribution-grid-snake.gif">
