@@ -58,10 +58,10 @@
 
 <img src="https://octodex.github.com/images/NUX_Octodex.gif" >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=griffinannshual&show_icons=true&locale=en&layout=compact" alt="griffinannshual" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinAnnshual&show_icons=true&locale=en&layout=compact" alt="griffinannshual" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=griffinannshual&show_icons=true&locale=en" alt="griffinannshual" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GriffinAnnshual&show_icons=true&locale=en" alt="griffinannshual" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=griffinannshual&" alt="griffinannshual" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GriffinAnnshual&" alt="griffinannshual" /></p>
 
 <img width = "30%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
