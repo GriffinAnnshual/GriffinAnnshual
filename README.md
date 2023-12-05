@@ -9,15 +9,55 @@
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 <img align="right" width="30%" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="greetings">
                                                                 
-- 🌱 I’m currently learning **Reactjs and Django**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Griffin Annshual S
+==========================================================================================================================================
 
-- 👯 I’m looking to collaborate on **Interesting Opensource projects**
+Freelancer and OpenSource Contirbutor
+-------------------------------------
 
-- 👨‍💻 All of my projects are available at [https://griffinannshual.netlify.app/](https://griffinannshual.netlify.app/)
+Work from Home | Building Projects for Businesses, Startups | Connect with me! Tech Stack : MERN Stack - React,Nodejs | Python & ML | JavaScript
 
-- 💬 Ask me about **MERN**, **Python**
-
-- 📫 How to reach me **griffintbr@gmail.com**
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [https://griffinannshual.netlify.app/](http://s)
+*   ✉️  You can contact me at [griffintbr@gmail.com](mailto:griffintbr@gmail.com)
+*   🧠  I'm learning Web technologies
+*   🤝  I'm open to collaborating on Interesting projects & Hackathons
+*   ⚡  Feel Free to Contact for any freelance work.<a href="https://www.github.com/AbinayaGnanasekaran" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/AbinayaGnanasekaran?logo=github&style=for-the-badge&color=84cc16&labelColor=14532d" /></a><a href="https://www.x.com/griffin_04" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/griffin_04?logo=twitter&style=for-the-badge&color=84cc16&labelColor=14532d"
+                /></a>
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/AbinayaGnanasekaran" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://griffinann.hashnode.dev" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/griffin-annshual-97b615232/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.x.com/griffin_04" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/griffintbrw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
 
 <h3 align="left">Connect with me:</h3>  <p align="left"> <a href="https://twitter.com/griffinann_04" target="blank"><img src="https://img.shields.io/twitter/follow/griffinann_04?logo=twitter&style=for-the-badge" alt="griffinann_04" /></a> 
 <p align="left">
