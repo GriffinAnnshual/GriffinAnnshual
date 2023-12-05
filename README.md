@@ -18,9 +18,12 @@ Work from Home | Building Projects for Businesses, Startups | Connect with me! T
 *   ✉️  You can contact me at [griffintbr@gmail.com](mailto:griffintbr@gmail.com)
 *   🧠  I'm learning Web technologies
 *   🤝  I'm open to collaborating on Interesting projects & Hackathons
-*   ⚡  Feel Free to Contact for any freelance work.<a href="https://www.github.com/AbinayaGnanasekaran" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/AbinayaGnanasekaran?logo=github&style=for-the-badge&color=84cc16&labelColor=14532d" /></a><a href="https://www.x.com/griffin_04" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/griffin_04?logo=twitter&style=for-the-badge&color=84cc16&labelColor=14532d"
+*   ⚡  Feel Free to Contact for any freelance work.
+
+# 🌎 Social:
+<a href="https://www.github.com/GriffinAnnshual" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/GriffinAnnshual?logo=github&style=for-the-badge&color=84cc16&labelColor=14532d" /></a><a href="https://www.x.com/griffinann_04" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/griffinann_04?logo=twitter&style=for-the-badge&color=84cc16&labelColor=14532d"
                 /></a>
 
 <h3 align="left">Connect with me:</h3>  <p align="left"> <a href="https://twitter.com/griffinann_04" target="blank"><img src="https://img.shields.io/twitter/follow/griffinann_04?logo=twitter&style=for-the-badge" alt="griffinann_04" /></a> 
