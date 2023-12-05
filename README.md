@@ -1,16 +1,12 @@
 ![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 
 
-<h1 align="center">Hi 😉, I'm Griffin Annshual      <img align="center" width="10%" src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png"></h1>
-<h3 align="center">Passionate Web developer and AI Enthusiast <img align="center" width="5%" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"></h3>
+<h1 align="center"><b>Hi 👋, I'm Griffin Annshual</b><img align="center" width="10%" src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=griffinannshual&label=Profile%20views&color=0e75b6&style=flat" alt="griffinannshual" /> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 <img align="right" width="30%" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="greetings">
                                                                 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Griffin Annshual S
-==========================================================================================================================================
 
 Freelancer and OpenSource Contirbutor
 -------------------------------------
@@ -26,38 +22,6 @@ Work from Home | Building Projects for Businesses, Startups | Connect with me! T
                   src="https://img.shields.io/github/followers/AbinayaGnanasekaran?logo=github&style=for-the-badge&color=84cc16&labelColor=14532d" /></a><a href="https://www.x.com/griffin_04" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/griffin_04?logo=twitter&style=for-the-badge&color=84cc16&labelColor=14532d"
                 /></a>
-                  ### Socials
-                  
-                  
-                <p align="left">
-                      <a href="https://www.github.com/AbinayaGnanasekaran" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://griffinann.hashnode.dev" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/griffin-annshual-97b615232/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/griffin_04" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/griffintbrw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
 
 <h3 align="left">Connect with me:</h3>  <p align="left"> <a href="https://twitter.com/griffinann_04" target="blank"><img src="https://img.shields.io/twitter/follow/griffinann_04?logo=twitter&style=for-the-badge" alt="griffinann_04" /></a> 
 <p align="left">
