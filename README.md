@@ -3,7 +3,7 @@
 
                                                                 
 
-Freelancer and OpenSource Contirbutor
+Freelancer and OpenSource Contirbutor.
 -------------------------------------
 
 Work from Home | Building Projects for Businesses, Startups | Connect with me! Tech Stack : MERN Stack - React,Nodejs | Python & ML | JavaScript
