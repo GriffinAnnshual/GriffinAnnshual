@@ -74,34 +74,6 @@ Work from Home | Building Projects for Businesses, Startups | Connect with me! T
 </details>
 
 
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/GriffinAnnshual/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GriffinAnnshual&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/GriffinAnnshual/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GriffinAnnshual&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/GriffinAnnshual/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GriffinAnnshual&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/GriffinAnnshual/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GriffinAnnshual&repo=personal-site&theme=default" />
- </a>
- 
-</details>
 
 ## Recent GitHub Activity ✅
 
