@@ -6,7 +6,7 @@
 Freelancer and OpenSource Contirbutor.
 -------------------------------------
 
-Work from Home | Building Projects for Businesses, Startups | Connect with me! Tech Stack : MERN Stack - React,Nodejs | Python & ML | JavaScript
+Work from Home | Building Projects for Businesses, Startups | Connect with me! Tech Stack : MERN Stack - NextJs React,Nodejs | Python & ML | JavaScript
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [https://griffinannshual.netlify.app/](http://s)
